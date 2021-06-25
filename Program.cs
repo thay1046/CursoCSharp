@@ -3,6 +3,7 @@ using CursoCSharp.Fundamentos;
 using System;
 using System.Collections.Generic;
 
+#main
 namespace CursoCSharp
 {
     class Program {
@@ -16,6 +17,8 @@ namespace CursoCSharp
             });
 
             central.SelecionarEExecutar();
+
+            
         }
     }
 }
